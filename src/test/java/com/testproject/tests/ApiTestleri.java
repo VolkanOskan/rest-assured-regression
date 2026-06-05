@@ -163,4 +163,3 @@ class ApiTestleri {
                 "POST yanit suresi cok uzun! Gelen sure: " + sure + "ms");
     }
 }
-//given ile hazırladım, when ile gönderdim, then ile kontrol ettim
